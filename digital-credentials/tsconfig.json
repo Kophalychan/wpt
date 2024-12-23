@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
+    "target": "2024",
     "module": "ESNext",
     "allowJs": true,
     "checkJs": true,
